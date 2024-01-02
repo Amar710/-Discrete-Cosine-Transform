@@ -8,7 +8,7 @@ Usage:
 Launching the Application:
 
 Run the Java application to launch the user-friendly GUI.
-Input the desired integer 'N' and populate the NxN matrix elements.
+Input a .txt file with the desired integer 'N' and populate the NxN matrix elements.
 Performing 2D DCT Transformation:
 
 Click on the appropriate buttons to execute the 2D DCT transformation.
